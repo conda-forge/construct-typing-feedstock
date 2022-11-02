@@ -1,5 +1,5 @@
 {% set name = "construct-typing" %}
-{% set version = "0.5.2" %}
+{% set version = "0.5.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/construct-typing-{{ version }}.tar.gz
-  sha256: 26da1ed7383c5dfe7f38a43c6281ad06bce2059bf02d5a0d2cc3c0e52632c0bd
+  sha256: 3d95395b02c727d53ecdd21ad78d9ece83baa24beb71ed5291b4ae4c5e7d78b3
 
 build:
   number: 0
